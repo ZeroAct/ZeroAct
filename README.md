@@ -7,3 +7,5 @@ HI!
 - ⚡ Fun fact: I'm hungry
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeroAct)](https://github.com/ZeroAct/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZeroAct&theme=default)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ZeroAct&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
