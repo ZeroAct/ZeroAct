@@ -2,7 +2,7 @@
 
 HI!
 
-- 🔭 I’m currently working on [SnuAiLab](http://www.snuailab.com/).
+- 🔭 I’m currently working on [Koscom](https://www.koscom.co.kr/).
 - 🌱 I’m currently learning Everything
 - ⚡ Fun fact: I'm hungry
 
