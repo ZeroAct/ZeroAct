@@ -2,9 +2,9 @@
 
 
 ### About Me
-- 🔭 I’m currently working on [Koscom](https://www.koscom.co.kr/).
-- 🌱 I’m currently learning Everything
-- ⚡ Fun fact: I'm hungry
+- Infuse every action with clear intention.
+- Learn from all, but idolize none.
+- My achievements are not mine alone; I give back to the world as much as I have received.
 
 ---
 
